@@ -1,0 +1,21 @@
+peliculas	pelicula batman	The Batman	img/pelicula-thebatman.png
+hoteles	hoteles	Hotel Casa Andina	img/hotel-casaandina.png
+videojuegos	videojuego juego naughty dog studios	Naughty Dog	img/videojuego-naughtydog.png
+hoteles	hoteles	Hotel Radisson	img/hotel-radisson.png
+restaurantes	restaurante maido comida	Restaurante Maido	img/restaurante-maido.png
+peliculas	pelicula marvel studios	Marvel Studios	img/pelicula-marvel.png
+peliculas	pelicula videojuego juego uncharted	Uncharted	img/pelicula-uncharted.png
+videojuegos	videojuego juego konami	Konami	img/videojuego-konami.png
+restaurantes	restaurante bubba gump comida	Restaurante Bubba Gump	img/restaurante-bubbagump.png
+peliculas	pelicula Capitan America	Capitan America	img/Capitan-America-Pelicula.png
+hoteles	hoteles	Hotel Brietol	img/Brietol-Hotel.png
+restaurantes	restaurante Anton	Restaurante Antón	img/Anton-Restaurante.png
+peliculas	pelicula Cuestion de Justicia	Cuestion de Justicia	img/Cuestion-de-justicia-Pelicula.png
+hoteles	hoteles	Dam Norte	img/Dam-Norte-Hotel.png
+peliculas	pelicula Era de Ultron	Era de Ultron	img/era-de-ultron-Pelicula.png
+videojuegos	videojuego Fornite	Fornite	img/Fornite-Videojuego.png
+videojuegos	videojuego Grand thef Auto	Grand thef Auto V	img/Grand-Thef-Auto-V-Videojuego.png
+hoteles	hoteles	Hotel Akapana	img/hotel-akapana.png
+videojuegos	videojuego Marvel Games	Marvel Games	img/Marvel_Games-Videojuegos.png
+restaurantes	restaurante cocina Camarena Ricard	La nueva cocina de Ricard	img/camarena.png
+restaurantes	restaurante Romeria	Restaurante Romeria	img/Romeria-Restaurante.png

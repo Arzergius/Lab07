@@ -1,0 +1,9 @@
+peliculas	pelicula batman	The Batman	img/pelicula-thebatman.png
+hoteles	hoteles	Hotel Casa Andina	img/hotel-casaandina.png
+videojuegos	videojuego juego naughty dog studios	Naughty Dog	img/videojuego-naughtydog.png
+hoteles	hoteles	Hotel Radisson	img/hotel-radisson.png
+restaurantes	restaurante maido comida	Restaurante Maido	img/restaurante-maido.png
+peliculas	pelicula marvel studios	Marvel Studios	img/pelicula-marvel.png
+peliculas	pelicula videojuego juego uncharted	Uncharted	img/pelicula-uncharted.png
+videojuegos	videojuego juego konami	Konami	img/videojuego-konami.png
+restaurantes	restaurante bubba gump comida	Restaurante Bubba Gump	img/restaurante-bubbagump.png

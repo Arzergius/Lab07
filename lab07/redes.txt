@@ -1,0 +1,3 @@
+https://twitter.com/	twitter	fa-brands fa-twitter
+https://facebook.com/	facebook	fa-brands fa-facebook-f
+https://instagram.com/	instagram	fa-brands fa-instagram
